@@ -1,4 +1,4 @@
 <?php
-
-    $a = "hello git3 v3 version super final";
+ 
+    $a = "hello git3 v 3";
     echo "$a";
